@@ -1,1 +1,4 @@
-## Lox Interpreter
+## Lox Interpreter (Jlox) ##
+
+Interpreter being created for a language called Lox. In this case, the first implementation of the interpreter will be using Java and it's power. After that,
+I'm going to create a C version. A much faster one, using all the power of C but without the facilities Java offers.
